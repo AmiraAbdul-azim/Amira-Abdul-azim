@@ -1,5 +1,6 @@
-<h1 align="center">🦋 Hi there, I'm Amira Abdul-azim 👩‍💻</h1>
-<h3 align="center">Frontend Developer | Creative Thinker | AOU Student</h3>
+<h1 align="center">Hi there</h1>
+<h1 align="center">I'm Amira Abdul-azim 👩‍💻</h1>
+<h3 align="center">Frontend Developer | AOU Student</h3>
 
 ---
 
